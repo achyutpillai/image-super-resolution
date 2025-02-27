@@ -1,6 +1,6 @@
 # Ignore dataset
 DIV2K/ 
-
+test/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

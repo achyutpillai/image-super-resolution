@@ -3,7 +3,7 @@ import glob
 from PIL import Image
 
 # Paths to High-Resolution Images
-BASE_DIR = "./DIV2K"  # Change this to your dataset root directory
+BASE_DIR = "../data/DIV2K"  # Change this to your dataset root directory
 HR_TRAIN_PATH = os.path.join(BASE_DIR, "DIV2K_train_HR")
 HR_VALID_PATH = os.path.join(BASE_DIR, "DIV2K_valid_HR")
 
