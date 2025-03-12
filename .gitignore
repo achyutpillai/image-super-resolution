@@ -1,6 +1,10 @@
 # Ignore dataset
 DIV2K/ 
 test/
+results/
+
+# Mac OS
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
